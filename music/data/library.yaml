@@ -12,8 +12,18 @@
   artist: The Proclaimers 
   link: https://soundcloud.com/tobias-vv-1/the-proclaimers-im-gonna-be-500-miles
   platform: soundcloud
-  genre: lo-fi hip-hop
+  genre: car genre lol
   mood: hype hype(taraaaaaa-ta taraaaaaaat-aaaaaaaaaaaa)
   year: 2025
   date_added: 2025-08-19
-  notes: "^mood"
+  notes: "mood"
+
+- title: Team
+  artist: Lorde
+  link: https://soundcloud.com/user-881998659/lorde-team
+  platform: soundcloud
+  mood: chill/medium-hype 
+  year: 2025
+  date_added: 2025-08-19
+  
+
