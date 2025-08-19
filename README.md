@@ -7,8 +7,8 @@ Stored in a single YAML file, and used to generate markdown playlists.
 
 ## Playlists (auto)
 
-- Chill Vibes → `music/playlists/chill.md`
-- All Songs → `music/playlists/all.md`
+- Chill Vibes → https://github.com/Cryptroot/Music-Library/blob/main/music/playlists/chill.md
+- All Songs → https://github.com/Cryptroot/Music-Library/blob/main/music/playlists/all.md
 
 ## Want to try it out? How to use it: 
 
