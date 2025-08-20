@@ -1,5 +1,7 @@
 # My Music Library
 
+![dancing](https://media.tenor.com/<path-here>.gif)
+
 Storing some tracks I stumble onto and like.
 Stored in a single YAML file, and used to generate markdown playlists.
 
