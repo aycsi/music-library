@@ -1,6 +1,6 @@
 # My Music Library
 
-![dancing]([https://media.tenor.com/<path-here>.gif](https://tenor.com/view/dance-gif-19132088))
+![dancing]([https://media.tenor.com/<path-here>.gif](https://tenor.com/view/dance-gif-19132088)) /  fix later { 
 
 Storing some tracks I stumble onto and like.
 Stored in a single YAML file, and used to generate markdown playlists.
