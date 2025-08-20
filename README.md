@@ -9,7 +9,7 @@ Stored in a single YAML file, and used to generate markdown playlists.
 - All Spotify Songs → https://github.com/aycsi/music-library/blob/main/music/spotifyall.md
 - All Soundcloud/Youtube (etc..) Songs → https://github.com/aycsi/Music-Library/blob/main/music/playlists/all.md
 
-# Not-Spotify Preview:
+# Not-Spotify:
 | Title | Artist | Platform | Link | Notes |
 |-------|--------|----------|------|-------|
 | Hit My Line | Harry Thompson | soundcloud | [link](https://soundcloud.com/harrythompsonmusic/hit-my-line-harry-t) | love the beat, not chill but good enough for kvällskod |
@@ -17,7 +17,7 @@ Stored in a single YAML file, and used to generate markdown playlists.
 | Team | Lorde | soundcloud | [link](https://soundcloud.com/user-881998659/lorde-team) | pretty chill |
 
 
-# Spotify Preview:
+# Spotify:
 | Title | Artist | Platform | Link | Notes |
 |-------|--------|----------|------|-------|
 | Bloom | Lucas Estrada, TWOPILOTS | spotify | [link](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) |  |
