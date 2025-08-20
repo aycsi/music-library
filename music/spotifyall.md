@@ -1,4 +1,4 @@
-# Spotify Music
+# spotify library
 
 | Title | Artist | Platform | Link | Notes |
 |-------|--------|----------|------|-------|
@@ -192,3 +192,99 @@
 | Afraid To Feel | LF SYSTEM | spotify | [link](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) |  |
 | YUUU | Alberto Ciccarini, Poul, Nifty Boi | spotify | [link](https://open.spotify.com/track/6nyQqCitlvalZHjxYLWfXa) |  |
 | Dancin (feat. Luvli) - Krono Remix | Aaron Smith, Krono, Luvli | spotify | [link](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) |  |
+| Prada | cassö, RAYE, D-Block Europe | spotify | [link](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) |  |
+| Thank You (Not So Bad) | Dimitri Vegas & Like Mike, Tiësto, Dido, W&W, Dimitri Vegas, Like Mike | spotify | [link](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) |  |
+| Can't Get You Out Of My Head | Gabriel Wittner, Kayote, YRIQUE | spotify | [link](https://open.spotify.com/track/7sf4grF0sYW2M2JgV6gqkv) |  |
+| Satisfaction - Hardwell & Maddix Remix | David Guetta, Benny Benassi, Hardwell, Maddix | spotify | [link](https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD) |  |
+| Lay Low | Tiësto | spotify | [link](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) |  |
+| Better Run | Kayote, Roman Messer, BAMI | spotify | [link](https://open.spotify.com/track/34QH9WceO07g10qEp7S7fF) |  |
+| Vois sur ton chemin - Techno Mix | BENNETT | spotify | [link](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) |  |
+| Blade | Roman Messer, Prime Punk, Norberto Loco | spotify | [link](https://open.spotify.com/track/7bTferX0fQLgLm7Sr85AIc) |  |
+| LET'S GET FKD UP | Alok, Mondello'G, CERES, Tribbs | spotify | [link](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) |  |
+| Bla Bla Bla | Roman Messer, Kayote | spotify | [link](https://open.spotify.com/track/2ruAuKmUaKRru1Kwam0M8R) |  |
+| I'm Good (Blue) | David Guetta, Bebe Rexha | spotify | [link](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) |  |
+| From Paris To Berlin | Lawstylez, Maria Beyer | spotify | [link](https://open.spotify.com/track/2ZQmHsYoo30IN1f0lRbiT5) |  |
+| Ferrari | James Hype, Miggy Dela Rosa | spotify | [link](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) |  |
+| Heads Will Roll | Roman Messer, Kayote | spotify | [link](https://open.spotify.com/track/2gHWV4EvkLqBngzXiT2nh4) |  |
+| Deep Down (feat. Never Dull) | Alok, Ella Eyre, Kenny Dope, Never Dull | spotify | [link](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) |  |
+| Looking For A Friend | TESS | spotify | [link](https://open.spotify.com/track/61AB4RyNVZoaNvOreGsH62) |  |
+| Car Keys (Ayla) | Alok, Ava Max | spotify | [link](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) |  |
+| Rakata | Kayote, The Galaxy | spotify | [link](https://open.spotify.com/track/6At0Gyrg14AtDlAdIbJzOJ) |  |
+| Relax My Eyes | ANOTR, Abel Balder | spotify | [link](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) |  |
+| Alibi | Manhart, Medusa, Repulse | spotify | [link](https://open.spotify.com/track/6P8BTBt7jHhkQ1OnSytEZN) |  |
+| One World One Sound | Kayote, LINIX, Gabriel Wittner | spotify | [link](https://open.spotify.com/track/2r9rw8x3OPwrb8qOQAoykf) |  |
+| Mission | Ely Oaks, joki, Enny-Mae | spotify | [link](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) |  |
+| Do It To It | ACRAZE, Cherish | spotify | [link](https://open.spotify.com/track/20on25jryn53hWghthWWW3) |  |
+| When You Look At Me | Sander Divino, TESS | spotify | [link](https://open.spotify.com/track/0F2UzAXf3sBZwtg2cUCTNp) |  |
+| Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit | Riton, Nightcrawlers, Mufasa & Hypeman, Mufasa, Dopamine | spotify | [link](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) |  |
+| Dreamscape | Kayote, SEM | spotify | [link](https://open.spotify.com/track/5j5l8M2G2hyv1CXJPE1fLs) |  |
+| Cry For You | Manhart, Tom Crawford | spotify | [link](https://open.spotify.com/track/0rT91rvdlWEWIYcdKAClaT) |  |
+| Tsunami | Alok, Ely Oaks | spotify | [link](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) |  |
+| Nein Mann | Gabriel Wittner, Manhart, Tom Crawford | spotify | [link](https://open.spotify.com/track/7eQ5aV7vkiNcKufqTov4EJ) |  |
+| Miracle (with Ellie Goulding) | Calvin Harris, Ellie Goulding | spotify | [link](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) |  |
+| All I Ever Wanted | Kayote, Goldistic | spotify | [link](https://open.spotify.com/track/3K31JYYkmx7OtUn4kKGHuK) |  |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | spotify | [link](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) |  |
+| Where Are You Now | Lost Frequencies, Calum Scott | spotify | [link](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) |  |
+| With You Tonight | Kayote, David Burster, Gabriel Wittner | spotify | [link](https://open.spotify.com/track/7zCZazUBLhb8LZMumVMscU) |  |
+| Crazy What Love Can Do | David Guetta, Becky Hill, Ella Henderson | spotify | [link](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) |  |
+| Let's Dance | TESS | spotify | [link](https://open.spotify.com/track/6vkBkuvBCxazAQy9MZOPGP) |  |
+| The Business | Tiësto | spotify | [link](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) |  |
+| Jungle | Alok, The Chainsmokers, Mae Stephens | spotify | [link](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) |  |
+| Shake It | Sacha Harland | spotify | [link](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) |  |
+| Where Did You Go | Kayote, Goldistic | spotify | [link](https://open.spotify.com/track/2nyLJnymEniCkO0UB9JIoA) |  |
+| More Than Ever (Umbrella) | LEDUC | spotify | [link](https://open.spotify.com/track/4uKulth6B1icBKdUQlQZhd) |  |
+| DNA (Loving You) [feat. Hannah Boleyn] | Billy Gillies, Hannah Boleyn | spotify | [link](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) |  |
+| Belly Dancer | Imanbek, BYOR | spotify | [link](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) |  |
+| Wackelkontakt | Oimara | spotify | [link](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) |  |
+| Location | Zerb, Ty Dolla $ign, Wiz Khalifa | spotify | [link](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) |  |
+| Head & Heart (feat. MNEK) | Joel Corry, MNEK | spotify | [link](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) |  |
+| YEAH | Dimitri Vegas & Like Mike, W&W, Marnik, Dimitri Vegas | spotify | [link](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) |  |
+| Like We Do | Kayote | spotify | [link](https://open.spotify.com/track/4pmzftASYR78adr4xFQl8T) |  |
+| Be My Lover (feat. La Bouche) - 2023 Mix | Hypaton, David Guetta, La Bouche | spotify | [link](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) |  |
+| Blame The Messiah | Delove, Fargro | spotify | [link](https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV) |  |
+| Don't Be Shy | Tiësto, KAROL G | spotify | [link](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) |  |
+| Pedro | Jaxomy, Agatino Romero, Raffaella Carrà | spotify | [link](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) |  |
+| Beautiful People | David Guetta, Sia | spotify | [link](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) |  |
+| Alma de Ibiza (WEPA) | Kayote, LonelyBrothers, Kush Rust | spotify | [link](https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf) |  |
+| PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix | Sharam, Adam Beyer, Layton Giordani, Green Velvet | spotify | [link](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) |  |
+| Faded | Manhart, Tom Crawford | spotify | [link](https://open.spotify.com/track/5XBvpjH07nJA3uiv5vFKe3) |  |
+| Dream A Little Dream | Armin van Buuren, Sam Gray | spotify | [link](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) |  |
+| Praying | Kayote, Bastyan | spotify | [link](https://open.spotify.com/track/6sLHKyEz4FncxLCwhawDwn) |  |
+| No Broke Boys | Disco Lines, Tinashe | spotify | [link](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) |  |
+| Every Breath You Take (feat. Luciana Silva) - Ferdinand Feller & Gabriel Summer Remix | Kayote, Slenderino, Gabriel Wittner, Luciana Silva, Ferdinand Feller, Gabriel Summer | spotify | [link](https://open.spotify.com/track/4UbX8tF3pAH6ekBQC0j1jL) |  |
+| Deep In Your Love | Alok, Bebe Rexha | spotify | [link](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) |  |
+| The Glen - Levi Heron Edit | Levi Heron | spotify | [link](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) |  |
+| What If We Let Go (feat. Sam Welch) | LEDUC, Bastyan, Sam Welch | spotify | [link](https://open.spotify.com/track/094ytaIC90FNjxPFpdgcHP) |  |
+| Love Tonight (Edit) | Shouse | spotify | [link](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) |  |
+| Lonely | David Emde, Chris Ruo | spotify | [link](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) |  |
+| Told You So | Martin Garrix, Jex | spotify | [link](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) |  |
+| Where Have You Been | Manhart, Tom Crawford | spotify | [link](https://open.spotify.com/track/0VlfoDGjJjdt0Xy0SpIS7d) |  |
+| 2 Times | Dimitri Vegas, Steve Aoki, Ann Lee, Sound Of Legend | spotify | [link](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) |  |
+| Pepas | Farruko | spotify | [link](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) |  |
+| Tell Me Where U Go | Clean Bandit, Tiësto, Leony | spotify | [link](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) |  |
+| Never The End | All Is Fine, Vinil, Idun Nicoline | spotify | [link](https://open.spotify.com/track/1Nz0ThhoKGMMzctw8utdjv) |  |
+| The Motto | Tiësto, Ava Max | spotify | [link](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) |  |
+| The Days - NOTION Remix | Chrystal, NOTION | spotify | [link](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) |  |
+| Let Her Go | Tom Crawford, Manhart | spotify | [link](https://open.spotify.com/track/5zCsIbebLNGbMaiSHnKbho) |  |
+| Heaven Takes You Home (feat. Connie Constance) | Swedish House Mafia, Connie Constance | spotify | [link](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) |  |
+| Around The World | Niklas Dee, René Miller | spotify | [link](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) |  |
+| Your Love (9PM) | ATB, Topic, A7S | spotify | [link](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) |  |
+| The Less I Know The Better | Mau P | spotify | [link](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) |  |
+| Summer Jam | Manhart, Tom Crawford | spotify | [link](https://open.spotify.com/track/3PHmWaE632XA90zZOUDXwT) |  |
+| Until The Lights Go Out | Axwell, CARMA | spotify | [link](https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj) |  |
+| Carol Of The Bells - Techno Remix | Sandëro, Carl Lazy | spotify | [link](https://open.spotify.com/track/2aWAehiL543jcM7A3LbJRP) |  |
+| Borderline | Ely Oaks, LAVINIA | spotify | [link](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC) |  |
+| Meet Her At The Love Parade | Dimitri Vegas & Like Mike, Maddix, Da Hool, Dimitri Vegas, Kiki Solvej | spotify | [link](https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT) |  |
+| Kernkraft 400 (A Better Day) | Topic, A7S | spotify | [link](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) |  |
+| Waste (feat. Veronica Bravo) | Kayote, Vowed, Veronica Bravo | spotify | [link](https://open.spotify.com/track/7zcB7BGtkSSjyN2LZKNILn) |  |
+| Boyz In Paris (with VINAI) | Marnik, Naeleck, VINAI | spotify | [link](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) |  |
+| Lullaby | BENNETT | spotify | [link](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) |  |
+| Unforgettable | Alok, Daecolm, Malou | spotify | [link](https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A) |  |
+| Let's Ride Away | Avicii, Elle King | spotify | [link](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) |  |
+| Running Around | Ely Oaks | spotify | [link](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) |  |
+| Levels - Radio Edit | Avicii | spotify | [link](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) |  |
+| Electric | Dela Utca, chameleon | spotify | [link](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) |  |
+| Explode | Tiësto, MOGUAI | spotify | [link](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) |  |
+| I'll Be Waiting | INNA, R3HAB | spotify | [link](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) |  |
+| Don't Wake Me Up | James Hype | spotify | [link](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) |  |
+| These Words | Badger, Natasha Bedingfield | spotify | [link](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) |  |
