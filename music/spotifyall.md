@@ -1,4 +1,4 @@
-# spotify library
+# Spotify Music
 
 | Title | Artist | Platform | Link | Notes |
 |-------|--------|----------|------|-------|

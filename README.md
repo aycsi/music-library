@@ -6,11 +6,5 @@ Stored in a single YAML file, and used to generate markdown playlists.
 ---
 
 ## Playlists (auto)
-
-- All Songs → https://github.com/Cryptroot/Music-Library/blob/main/music/playlists/all.md
-
-## Want to try it out? How to use it: 
-
-1. Add songs to `music/data/library.yaml`
-2. Run the script: `python scripts/yaml-to-md.py`
-3. New markdown playlists are auto-generated
+- All Spotify Songs → https://github.com/aycsi/music-library/blob/main/music/spotifyall.md
+- All Soundcloud/Youtube (etc..) Songs → https://github.com/aycsi/Music-Library/blob/main/music/playlists/all.md
