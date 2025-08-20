@@ -102,3 +102,93 @@
 | Save Tonight | SRNDE | spotify | [link](https://open.spotify.com/track/0QmEIftoPrtiA9EXy8sqy3) |  |
 | Morning Sun | Lost In Reveries, Namté | spotify | [link](https://open.spotify.com/track/0uE87YJLWQRqSOVzD1r82U) |  |
 | Fortnight | Medusa, Acko, Flauna, Ro | spotify | [link](https://open.spotify.com/track/2LBBMwcaWUyHYTDZaeLH69) |  |
+| Move | Adam Port, Stryv, Keinemusik, Orso, Malachiii | spotify | [link](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li) |  |
+| Blessings | Calvin Harris, Clementine Douglas | spotify | [link](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) |  |
+| Somebody (2024) | Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone | spotify | [link](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) |  |
+| It's Not Right But It's Okay | Mr. Belt & Wezol | spotify | [link](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) |  |
+| World Hold On - FISHER Rework | Bob Sinclar, FISHER, Steve Edwards | spotify | [link](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) |  |
+| This Rhythm (feat. RAHH) | Prospa, RAHH | spotify | [link](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) |  |
+| It Feels So Good | Matt Sassari, HUGEL, Sonique | spotify | [link](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) |  |
+| Bami Soro | ERIICE, Lucas Estrada, Moelogo | spotify | [link](https://open.spotify.com/track/00CI8GM0SoELFdfMPHWgyA) |  |
+| Yamore | MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora | spotify | [link](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) |  |
+| Dirty Cash (Money Talks) | PAWSA, The Adventures Of Stevie V | spotify | [link](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) |  |
+| MIND GAMES | TECH IT DEEP, Lucas Estrada, Jaimes | spotify | [link](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) |  |
+| My Love (2024) | Alex Wann, Route 94, Jess Glynne | spotify | [link](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) |  |
+| Weyu | Lucas Estrada, Lenji, Amadi Blue | spotify | [link](https://open.spotify.com/track/0LGUxRAobq2shxKN3xtnMJ) |  |
+| Crazy For It | Rampa, Adam Port, &ME, Boys Noize, Vinson, Keinemusik | spotify | [link](https://open.spotify.com/track/7cPPX2zkjtYWEhKxcwhr4v) |  |
+| Give It To Me | Lucas Estrada, Daytona | spotify | [link](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ) |  |
+| Life Is Simple (Move Your Body) [Feat Salomé Das] | Maesic, Marshall Jefferson, Salomé Das | spotify | [link](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) |  |
+| Heat | Naarly, FIRSTCLASS, Lucas Estrada | spotify | [link](https://open.spotify.com/track/2RTeXzmqnMh5s5prFGuoQG) |  |
+| Positions | Stryv, Malachiii, Adam Port | spotify | [link](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) |  |
+| Baddie | Tom Enzy, Lucas Estrada, Tanaka | spotify | [link](https://open.spotify.com/track/0eDCd6Z0vf8tldbSI346gM) |  |
+| Sweet Sunrise | Lucas Estrada, Modi, Thierry Von Der Warth | spotify | [link](https://open.spotify.com/track/7niYVJqB5julLCEsAtaB9x) |  |
+| Loosen Up | HUGEL, Dawty, Preston Harris | spotify | [link](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) |  |
+| I Follow Rivers | Oceanside, CALUA | spotify | [link](https://open.spotify.com/track/6Fr8RFF51vEoUjxTpfZdxf) |  |
+| Relax My Eyes | ANOTR, Abel Balder | spotify | [link](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) |  |
+| Do You Think About Me | vidi roca, 4Rain, LEEB | spotify | [link](https://open.spotify.com/track/2IORENMDLpini38aT2BizM) |  |
+| Shine Like Stars | Benji | spotify | [link](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) |  |
+| Tell Me What You Want | Oden & Fatzo, Poppy Baskcomb | spotify | [link](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp) |  |
+| Jackie B | &friends, JOSEPH (CH), Brent Faiyaz | spotify | [link](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) |  |
+| Hot | Daytona | spotify | [link](https://open.spotify.com/track/59MFdfPVDQv8gtAzF7u6yy) |  |
+| Ease My Mind | Chris Lake, Abel Balder | spotify | [link](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) |  |
+| (It Goes Like) Nanana - Edit | Peggy Gou | spotify | [link](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) |  |
+| Kuya | RUSH AVENUE | spotify | [link](https://open.spotify.com/track/6j13gtaP8VAmDgOHkh89d4) |  |
+| Pepele | AFRONOM, Lucas Estrada, Idd Aziz | spotify | [link](https://open.spotify.com/track/5nxNh5IIUKPF6HAYQo2Qjj) |  |
+| Rapture | Lost Ways, Kide (IT), Nick Jay | spotify | [link](https://open.spotify.com/track/11bBjxVwEt5WqdXbcifw78) |  |
+| Rainfall (Praise You) | Tom Santa | spotify | [link](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) |  |
+| Genie In A Bottle | Ben Carter, SIRØB | spotify | [link](https://open.spotify.com/track/6JPUM0GYd2XdHnhLNNWWbB) |  |
+| Jump | Levi | spotify | [link](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) |  |
+| La La La Love | Viva La Panda, Swizznife | spotify | [link](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d) |  |
+| Your Body | Marten Lou | spotify | [link](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) |  |
+| Taboo (ERIICE Remix) | Madism, Good Humans, Sadie Rose Van, ERIICE | spotify | [link](https://open.spotify.com/track/6b6X8jpEIG2E23LrHzoKjC) |  |
+| The Boy Is Mine | James Mac, Vall, Rosalie | spotify | [link](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) |  |
+| Time | Ched, Muted Mind | spotify | [link](https://open.spotify.com/track/6tbOxewU9pH5V27gunLhOu) |  |
+| You & Me - Rivo Remix | Disclosure, Eliza Doolittle, Rivo | spotify | [link](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) |  |
+| What You Do To Me | Lucas Estrada, Madism, Adam Woods | spotify | [link](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) |  |
+| No Bad Vibes | Jazzy, KILIMANJARO | spotify | [link](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) |  |
+| Searching | AFROTECH | spotify | [link](https://open.spotify.com/track/7rwbVSnut3k4cOZHSWAX98) |  |
+| Baille | ERIICE | spotify | [link](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) |  |
+| Famax - Edit | RAFFA GUIDO | spotify | [link](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) |  |
+| Si Mi | DALEXO, Boix & Breakloop, Oscar Yuan, Palm Monkey | spotify | [link](https://open.spotify.com/track/04LwWjNpLtT9Lnxw8jEw7F) |  |
+| Moon (feat. Adam Woods) | Lucas Estrada, Tobtok, Adam Woods | spotify | [link](https://open.spotify.com/track/0KGmDIHq8n3xlixfSrH0bj) |  |
+| Love Me Again | Lucas Estrada, YouNotUs, Sam Gray | spotify | [link](https://open.spotify.com/track/0n9HJnk78MON2pasWMNtbl) |  |
+| Sanctified | Lost Ways, Alberto Ciccarini, Poul | spotify | [link](https://open.spotify.com/track/34OYlTT4KwnjdUKd6z3Chv) |  |
+| Bloody Samaritan | Double MZK | spotify | [link](https://open.spotify.com/track/6dNpkFANHeFcWcbSajj13g) |  |
+| Hold On | TOOMANYLEFTHANDS, Palau, Heliograph | spotify | [link](https://open.spotify.com/track/0z7S2mUlOIJfuIU967dRPb) |  |
+| Somedays | Sonny Fodera, Jazzy, D.O.D | spotify | [link](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) |  |
+| Down | AFROTECH | spotify | [link](https://open.spotify.com/track/70G05hGRdaxKMDKgmMP1wg) |  |
+| Say What | Rampa, Adam Port, &ME, chuala, Keinemusik | spotify | [link](https://open.spotify.com/track/73YTJNeXISV9QHMG82ZrwP) |  |
+| Let It Begin | Walk on Water, Plu2 | spotify | [link](https://open.spotify.com/track/3c7TXsqWcL3FEqFPvmiX2H) |  |
+| In The Dark | Felipe Allenn | spotify | [link](https://open.spotify.com/track/6f9x5G9CzVSdhmAltt9s0x) |  |
+| Sol | AFROTECH | spotify | [link](https://open.spotify.com/track/2sisbPAeHzoylntRCSsiRe) |  |
+| Sola Nací (Afro House) | Alé Kumá, Cumbiafrica, MORENITA, Paradise Inc. | spotify | [link](https://open.spotify.com/track/6FGaGnenXP7aYRA4dhyAh7) |  |
+| Sete | BLOND:ISH, Francis Mercier, Amadou & Mariam | spotify | [link](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) |  |
+| Osupa | Next Promises | spotify | [link](https://open.spotify.com/track/2WBTBGqeaBLQHLbnUPI7kF) |  |
+| Morenita | Cumbiafrica, Lucas Estrada, Paradise Inc. | spotify | [link](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) |  |
+| Wacuka | AVAION, Sofiya Nzau | spotify | [link](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) |  |
+| Bloom (Brendan Mills Remix) | Lucas Estrada, TWOPILOTS, Brendan Mills | spotify | [link](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR) |  |
+| How You Feel (Ft. Leven Kali) | ANOTR, Erik Bandt, Leven Kali | spotify | [link](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) |  |
+| This Is The Life - Paradise Inc. Remix | Sarah de Warren, Charming Horses, Hanno, Paradise Inc. | spotify | [link](https://open.spotify.com/track/1k8UhmiSVxit4kIPynyQ4l) |  |
+| Don't Wake Me Up | Lundz, Daniel Tone | spotify | [link](https://open.spotify.com/track/4kl7U6Hrb03cY11RrQmIrO) |  |
+| Money, Money | Boy Amor, Gwen Bunn | spotify | [link](https://open.spotify.com/track/0TQ8goz32T1F0ocuxHQySL) |  |
+| I Like The Way You Kiss Me | Lost Ways | spotify | [link](https://open.spotify.com/track/5p6wvTSvjxHB5Rn4A7MLKa) |  |
+| Nada Quedo | Impani, LU2VYK | spotify | [link](https://open.spotify.com/track/3uqwPw8HylQn9vcmZuDQK3) |  |
+| Pasa Pasa | AFROTECH, Lucas Estrada | spotify | [link](https://open.spotify.com/track/4KRQLQgSKHkgsPsyBw1DRp) |  |
+| Now & Forever | BTRN, Vennom, Daramola | spotify | [link](https://open.spotify.com/track/6w7WN78QeMLMYJNVXgvs2n) |  |
+| Love Is Coming Home | Double MZK, Naarly, J Fitz | spotify | [link](https://open.spotify.com/track/0y0N6Sy0YQpR1iUFdrEsr1) |  |
+| Love Me More - Radio Edit | Foínix, Edward Maya, Rolipso, ERIICE | spotify | [link](https://open.spotify.com/track/1qOpGgSWOeGQ6iRGzjkTax) |  |
+| Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework | HUGEL | spotify | [link](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) |  |
+| Lap of Gods (feat. Sam Welch) | Benji, Sam Welch | spotify | [link](https://open.spotify.com/track/2GwQ33xxkI5sVy8JOcMRVg) |  |
+| Breathin' | Lost Ways, ZHIKO | spotify | [link](https://open.spotify.com/track/23xkJy96ejXRTxAluah6OM) |  |
+| Currency (Count On Me) (ft Cimafunk and PAMÉ) | ANOTR, Cimafunk, PAMÉ | spotify | [link](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) |  |
+| Delilah (pull me out of this) | Fred again.., Delilah Montagu | spotify | [link](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) |  |
+| Atmosphere | FISHER, Kita Alexander | spotify | [link](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) |  |
+| Over Now | AFROTECH | spotify | [link](https://open.spotify.com/track/1dYxfJLvwETk0RuonUVfph) |  |
+| Worlds Apart | Felipe Allenn | spotify | [link](https://open.spotify.com/track/01lnPoapXx6f8dNfTGqIXY) |  |
+| Rakata | BACOLE, AFROTECH | spotify | [link](https://open.spotify.com/track/1ALPWTB3jaxN3DmujMLHdz) |  |
+| CORAÇAO - 20th Anniversary Mix | Jerry Ropero, HUGEL, Mijangos, Jesús Fernández | spotify | [link](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g) |  |
+| Lost In You | AFROTECH | spotify | [link](https://open.spotify.com/track/3HiIWEktwS11DqmpdRap8w) |  |
+| Lola's Theme - Radio Edit | The Shapeshifters | spotify | [link](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm) |  |
+| Afraid To Feel | LF SYSTEM | spotify | [link](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) |  |
+| YUUU | Alberto Ciccarini, Poul, Nifty Boi | spotify | [link](https://open.spotify.com/track/6nyQqCitlvalZHjxYLWfXa) |  |
+| Dancin (feat. Luvli) - Krono Remix | Aaron Smith, Krono, Luvli | spotify | [link](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) |  |
