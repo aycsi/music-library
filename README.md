@@ -1,6 +1,5 @@
 # My Music Library
 
-Storing some tracks I stumble onto and like.
 Stored in a single YAML file, and used to generate markdown playlists.
 
 ---
