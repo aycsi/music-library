@@ -1,10 +1,7 @@
 # My Music Library
-<<<<<<< HEAD
 
-=======
 Stored in a single YAML file, and used to generate markdown playlists.
 
----
 
 ## Playlists (auto)
 - All Spotify Songs → https://github.com/aycsi/music-library/blob/main/music/spotifyall.md
