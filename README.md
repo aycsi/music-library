@@ -2,8 +2,6 @@
 <<<<<<< HEAD
 
 =======
-Storing some tracks I stumble onto and like.
->>>>>>> 35a5ab7527736e23977e9e69f9fd16f3d9505538
 Stored in a single YAML file, and used to generate markdown playlists.
 
 ---
