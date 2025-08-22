@@ -31,8 +31,7 @@ def fetch_playlist_tracks(playlist_url):
             "mood": "",
             "year": int(track["album"]["release_date"][:4]) if track["album"]["release_date"] else "",
             "date_added": str(date.today()),
-            "notes": "",
-            "y/n": ""
+            "notes": ""
         })
     return tracks
 

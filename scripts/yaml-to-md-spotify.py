@@ -9,8 +9,8 @@ Path("music").mkdir(parents=True, exist_ok=True)
 def write_md(path, title, songs):
     with open(path, "w", encoding="utf-8") as f:
         f.write(f"# {title}\n\n")
-        f.write("| Title | Artist | Platform | Link | Notes |y/n|\n")
-        f.write("|-------|--------|----------|------|-------|---|\n")
+        f.write("| Title | Artist | Platform | Link | Notes\n")
+        f.write("|-------|--------|----------|------|-------|\n")
         for s in songs:
             f.write(
                 f"| {s['title']} | {s['artist']} | {s['platform']} | "
